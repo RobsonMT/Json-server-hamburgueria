@@ -10,7 +10,7 @@
       "name": "Cheeseburger",
       "price": 14,
       "category": "Sanduíches",
-      "image": "https://i.ibb.co/fFfTkbp/Cheeseburger.png"
+      "image": "https://i.ibb.co/fFfTkbp/churros.png"
     },
     {
       "name": "X-Fiesta",
@@ -74,7 +74,7 @@
     },
     {
       "name": "Nuggets 4 unidades",
-      "price": 0.5,
+      "price": 2,
       "category": "Sobremesa",
       "image": "https://i.ibb.co/9hmgDhh/nuggets-4unidades.png"
     },
