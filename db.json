@@ -1,0 +1,162 @@
+{
+  "products": [
+    {
+      "name": "Hamburger",
+      "price": 12,
+      "category": "Sanduíches",
+      "image": "https://i.ibb.co/Tbd2CyQ/Hamburger.png"
+    },
+    {
+      "name": "Cheeseburger",
+      "price": 14,
+      "category": "Sanduíches",
+      "image": "https://i.ibb.co/fFfTkbp/Cheeseburger.png"
+    },
+    {
+      "name": "X-Fiesta",
+      "price": 14,
+      "category": "Sanduíches",
+      "image": "https://i.ibb.co/317jFg0/x-fiesta.png"
+    },
+    {
+      "name": "X-Burger",
+      "price": 16,
+      "category": "Sanduíches",
+      "image": "https://i.ibb.co/9h9sZpr/x-burger.png"
+    },
+    {
+      "name": "Quarteirão",
+      "price": 16,
+      "category": "Sanduíches",
+      "image": "https://i.ibb.co/3S849qj/quarteirao.png"
+    },
+    {
+      "name": "Picanha Club-House",
+      "price": 16,
+      "category": "Sanduíches",
+      "image": "https://i.ibb.co/W0qZFXs/Picanha-club-house.png"
+    },
+    {
+      "name": "X-Picanha Chedar",
+      "price": 16,
+      "category": "Sanduíches",
+      "image": "https://i.ibb.co/LSX1SjK/x-picanha-chedar.png"
+    },
+    {
+      "name": "X-Picanha Duplo",
+      "price": 18,
+      "category": "Sanduíches",
+      "image": "https://i.ibb.co/ZmLQbf4/x-picanha-duplo.png"
+    },
+    {
+      "name": "Duplo Barbecue",
+      "price": 18,
+      "category": "Sanduíches",
+      "image": "https://i.ibb.co/jfjQDdK/duplo-barbecue.png"
+    },
+    {
+      "name": "Big Tasty",
+      "price": 18,
+      "category": "Sanduíches",
+      "image": "https://i.ibb.co/gDJ1nnk/Big-tasty-bacon.png"
+    },
+    {
+      "name": "X-Especial",
+      "price": 18,
+      "category": "Sanduíches",
+      "image": "https://i.ibb.co/99x9z1Y/x-especial.png"
+    },
+    {
+      "name": "Pão de Queijo",
+      "price": 0.5,
+      "category": "Sobremesa",
+      "image": "https://i.ibb.co/XXLWsD6/pao-de-queijo.png"
+    },
+    {
+      "name": "Nuggets 4 unidades",
+      "price": 0.5,
+      "category": "Sobremesa",
+      "image": "https://i.ibb.co/9hmgDhh/nuggets-4unidades.png"
+    },
+    {
+      "name": "Casquinha de Chocolate",
+      "price": 7,
+      "category": "Sobremesa",
+      "image": "https://i.ibb.co/gRMS1zg/casquinha-de-Chocolate.png"
+    },
+    {
+      "name": "Casquinha de Baunilha",
+      "price": 7,
+      "category": "Sobremesa",
+      "image": "https://i.ibb.co/mq6GfwT/casquinha-de-Baunilha.png"
+    },
+    {
+      "name": "Casquinha Mista",
+      "price": 7,
+      "category": "Sobremesa",
+      "image": "https://i.ibb.co/D4VzbHV/casquinha-mista.png"
+    },
+    {
+      "name": "Flurry MMs",
+      "price": 10,
+      "category": "Sobremesa",
+      "image": "https://i.ibb.co/Tw3shDj/flurry-m-ms.png"
+    },
+    {
+      "name": "Sundae de Morango",
+      "price": 8,
+      "category": "Sobremesa",
+      "image": "https://i.ibb.co/9qpqCY0/sundae-de-morango.png"
+    },
+    {
+      "name": "Sundae de Chocolate",
+      "price": 8,
+      "category": "Sobremesa",
+      "image": "https://i.ibb.co/z6D91t5/sundae-de-chocolate.png"
+    },
+    {
+      "name": "Sundae de Caramelo",
+      "price": 8,
+      "category": "Sobremesa",
+      "image": "https://i.ibb.co/5Yyrv06/sundae-caramelo.png"
+    },
+    {
+      "name": "Kopenhagen",
+      "price": 10,
+      "category": "Sobremesa",
+      "image": "https://i.ibb.co/N1ztTLj/kopenhagen.png"
+    },
+    {
+      "name": "Milk Shake Ovomaltine",
+      "price": 10,
+      "category": "Sobremesa",
+      "image": "https://i.ibb.co/JHvj7k6/milk-shake-ovomaltine.png"
+    },
+    {
+      "name": "Milk Shake de Morango",
+      "price": 10,
+      "category": "Sobremesa",
+      "image": "https://i.ibb.co/ScQ23JG/milk-shake-morango.png"
+    },
+    {
+      "name": "Áqua",
+      "price": 2,
+      "category": "Bebidas",
+      "image": "https://i.ibb.co/NxkkMnd/aqua.png"
+    },
+    {
+      "name": "Del Vale de uva",
+      "price": 5,
+      "category": "Bebidas",
+      "image": "https://i.ibb.co/j5PX20M/del-vale-de-uva.png"
+    },
+    {
+      "name": "Coca Cola",
+      "price": 7,
+      "category": "Bebidas",
+      "image": "https://i.ibb.co/5kMqQ9w/coca-cola.png"
+    }
+  ],
+  "users": [],
+  "cart": []
+}
