@@ -1,12 +1,12 @@
-<h1 align ='center'> Hamburgueria </h1>
-
-https://json-hamburgueria.herokuapp.com/
+# [Hamburgueria](https://json-hamburgueria.herokuapp.com/)
 
 ## Endpoints
 
-Assim como a documentação do JSON-Server-Auth traz (https://www.npmjs.com/package/json-server-auth), existem 3 endpoints que podem ser utilizados para cadastro e 2 endpoints que podem ser usados para login.
+- <a href="#users">/users</a>
+- <a href="#products">/products</a>
+- <a href="#cart">/cart</a>
 
-<h2 align ='center'> Cadastro </h2>
+<h2 id="users" align ='center'> Cadastro </h2>
 
 `POST /register`
 `POST /signup`
@@ -169,7 +169,7 @@ E possível atualizar qualquer dado do usuário sendo necessário passar o núme
 "Missing token"
 ```
 
-<h2 align ='center'> Listar produtos </h2>
+<h2 id="products" align ='center'> Listar produtos </h2>
 
 Lista todos os produtos cadastrados, sendo 26 produtos no total. Não e necessário estar logado para acessar os produtos.
 
@@ -210,7 +210,7 @@ Lista todos os produtos cadastrados, sendo 26 produtos no total. Não e necessá
 ]
 ```
 
-<h2 align ='center'>Adicionar ao carrinho</h2>
+<h2 id="cart" align ='center'>Adicionar ao carrinho</h2>
 
 Para adicionar um produto ao carrinho e necessário passar o corpo do produto selecionado adicionando a propriedade "urserId".
 
@@ -268,8 +268,8 @@ Para atualizar a quantidade e necessário passar o id do produto selecionado no 
   "price": 12,
   "category": "Sanduíches",
   "image": "https://i.ibb.co/Tbd2CyQ/Hamburger.png",
-  "quantity": 1,
-  "userId": 2,
+  "quantity": 2,
+  "userId": 1,
   "id": 1
 }
 ```
